@@ -4,6 +4,8 @@
 
 **BandwagonHost** is owned and operated by IT7 Networks Inc. They offer new promotional VPS plans at affordable prices in Los Angeles, featuring China Direct Route.
 
+![image](https://github.com/kojcddum/BandwagonHost/assets/169893240/ee3f759e-badd-4ceb-bb52-fb68348272a8)
+
 ### Features:
 - VPS technology: OpenVZ & KVM/KiwiVM
 - Linux OS: 32-bit and 64-bit CentOS, Debian, Ubuntu, Fedora
@@ -19,7 +21,7 @@
 - Location: Los Angeles (no other locations available on this plan)
 - Direct route via China Telecom and China Unicom
 
-![image](https://github.com/kojcddum/BandwagonHost/assets/169893240/ee3f759e-badd-4ceb-bb52-fb68348272a8)
+
 
 ## BandwagonHost Official Website Address
 
